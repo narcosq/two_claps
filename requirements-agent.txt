@@ -1,0 +1,9 @@
+PyAudio
+pygame
+SpeechRecognition
+python-dotenv
+gTTS
+langchain
+langchain-core
+langchain-google-genai
+scipy
